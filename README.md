@@ -4,4 +4,4 @@ Flu shot predictions for the drivendata.org competition at https://www.drivendat
 
 This is my first ever upload to github.
 
-One of the interesting things I learned from this project is feature selection.
+One of the interesting things I learned from this project is feature selection using Lasso and how to tune the number of features selected using alpha.
